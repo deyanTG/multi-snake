@@ -1,0 +1,13 @@
+#mycanvas {
+    position: fixed;
+    top: 61%;
+    left: 50%;
+    /* bring your own prefixes */
+    transform: translate(-50%, -50%);
+    background:url(background.jpg);
+}
+
+#logo{
+    position : fixed;;
+    left: 43%;
+}
